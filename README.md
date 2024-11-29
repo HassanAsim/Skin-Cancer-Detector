@@ -55,7 +55,7 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Skin-Cancer-Detector.git
+   git clone https://github.com/HassanAsim/Skin-Cancer-Detector.git
    cd Skin-Cancer-Detector
    
 2. (Optional) Create a virtual environment:
